@@ -89,7 +89,7 @@ hr {
   max-width: 270px;
   max-height: 270px;
   border-radius: 50%;
-  background-image: url(../../images/profile.jpg);
+  background-image: url("../../images/profile.jpg");
   background-size: cover;
   position: relative;
 }
